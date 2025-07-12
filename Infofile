@@ -1,0 +1,14 @@
+# Warehouse Sales and Inventory Forecasting (Large Dataset)
+
+Forecasts sales and inventory for 100 warehouse products using machine learning.
+
+## Features
+- Daily sales and inventory for 100 items (6 years)
+- Forecasts future sales with Linear Regression
+- Visual plots saved for each item
+
+## Usage
+```bash
+pip install -r requirements.txt
+python main.py
+```
